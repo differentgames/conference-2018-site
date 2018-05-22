@@ -1,4 +1,4 @@
-# Different Games Conference 2016 website
+# Different Games Conference 2018 website
 
 <marquee>YOU KNOW IT... YOU LOVE IT...</marquee>
 
